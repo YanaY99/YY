@@ -6,4 +6,4 @@ $app->initLayout('Centered');
 $button = $app->add('Button');
 $button->set('Add Invoice');
 $button->icon = 'plus';
-$button->link('www.e-klase.lv');
+$button->link('https://www.e-klase.lv/lv/');
